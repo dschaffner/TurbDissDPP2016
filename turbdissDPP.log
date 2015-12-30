@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.11)  24 DEC 2015 04:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.11)  28 DEC 2015 00:20
 entering extended mode
 **turbdissDPP.tex
 (C:\Users\dschaffner\Documents\GitHub\TurbDissDPP2016\turbdissDPP.tex
@@ -257,11 +257,11 @@ LaTeX Font Info:    ... okay on input line 21.
 \makeMPintoPDFobject=\count113
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -269,68 +269,65 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
- [1{C:/Users/dschaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-LaTeX Warning: Reference `fig:diagram' on page 2 undefined on input line 57.
-
-<tunnel_2p5m_TurbDissDPPpaper.png, id=14, 624.8946pt x 274.1442pt>
+ [1{C:/Users/dschaffner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] <tunnel_2p5m_TurbDissDPPpaper.png, id=14, 62
+4.8946pt x 274.1442pt>
 File: tunnel_2p5m_TurbDissDPPpaper.png Graphic file (type png)
- <use tunnel_2p5m_TurbDissDPPpaper.png>
-Package pdftex.def Info: tunnel_2p5m_TurbDissDPPpaper.png used on input line 61.
-(pdftex.def)             Requested size: 483.69684pt x 212.20438pt.
 
-<Young_spectra.png, id=16, 252.945pt x 198.0198pt>
+<use tunnel_2p5m_TurbDissDPPpaper.png>
+Package pdftex.def Info: tunnel_2p5m_TurbDissDPPpaper.png used on input line 46.
+(pdftex.def)             Requested size: 483.69684pt x 212.20438pt.
+ <Young_spectra.png, id=16, 252.945pt x 198.0198pt>
 File: Young_spectra.png Graphic file (type png)
  <use Young_spectra.png>
-Package pdftex.def Info: Young_spectra.png used on input line 69.
+Package pdftex.def Info: Young_spectra.png used on input line 58.
 (pdftex.def)             Requested size: 241.84842pt x 189.33542pt.
 
 <PE_SC_flatness.png, id=17, 244.9953pt x 423.5022pt>
 File: PE_SC_flatness.png Graphic file (type png)
  <use PE_SC_flatness.png>
-Package pdftex.def Info: PE_SC_flatness.png used on input line 75.
+Package pdftex.def Info: PE_SC_flatness.png used on input line 64.
 (pdftex.def)             Requested size: 241.84842pt x 418.07942pt.
+ [2] [3 <C:/Users/dschaffner/Documents/GitHub/TurbDissDPP2016/tunnel_2p5m_TurbDissDPPpaper.png> <C:/Users/dschaffner/Doc
+uments/GitHub/TurbDissDPP2016/Young_spectra.png>]
 
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 100.
 
-LaTeX Warning: Reference `LastBibItem' on page 2 undefined on input line 83.
+[4 <C:/Users/dschaffner/Documents/GitHub/TurbDissDPP2016/PE_SC_flatness.png>] [5]
+Missing character: There is no â in font cmr8!
+Missing character: There is no € in font cmr8!
+Missing character: There is no “ in font cmr8!
 
-(C:\Users\dschaffner\Documents\GitHub\TurbDissDPP2016\turbdissDPP.bbl) [2] [3 <C:/Users/dschaffner/Documents/GitHub/Turb
-DissDPP2016/tunnel_2p5m_TurbDissDPPpaper.png> <C:/Users/dschaffner/Documents/GitHub/TurbDissDPP2016/Young_spectra.png>]
-[4 <C:/Users/dschaffner/Documents/GitHub/TurbDissDPP2016/PE_SC_flatness.png>]
-(C:\Users\dschaffner\Documents\GitHub\TurbDissDPP2016\turbdissDPP.aux
+(C:\Users\dschaffner\Documents\GitHub\TurbDissDPP2016\turbdissDPP.bbl)
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
+Class revtex4-1 Warning: Environment acknowledgements is obsolete;
+Use acknowledgments instead.
 
-)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
-
- ) 
+[6] (C:\Users\dschaffner\Documents\GitHub\TurbDissDPP2016\turbdissDPP.aux) ) 
 Here is how much of TeX's memory you used:
- 4170 strings out of 493921
- 53805 string characters out of 3144861
- 147339 words of memory out of 3000000
- 7405 multiletter control sequences out of 15000+200000
- 18306 words of font info for 67 fonts, out of 3000000 for 9000
+ 4255 strings out of 493921
+ 55254 string characters out of 3144861
+ 128232 words of memory out of 3000000
+ 7489 multiletter control sequences out of 15000+200000
+ 18658 words of font info for 68 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,5n,28p,1757b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on turbdissDPP.pdf (4 pages, 384603 bytes).
+ 34i,5n,28p,1879b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi5.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmmi9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on turbdissDPP.pdf (6 pages, 479707 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
